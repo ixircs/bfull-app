@@ -41,10 +41,14 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {}
+      "router": {},
+      "eas": {
+        "projectId": "24b041a0-5576-4256-94fd-12299727b863"
+      }
     },
     "runtimeVersion": {
       "policy": "appVersion"
-    }
+    },
+    "owner": "ryanchristopher"
   }
 }
