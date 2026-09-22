@@ -1,10 +1,10 @@
 name: Deploy Web
 
 # Auto-deploys the web build to EAS Hosting (https://bfull.expo.app) on every
-# push to master. The Android APK is intentionally left as a manual step.
+# push to main. The Android APK is intentionally left as a manual step.
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch: # lets you trigger a deploy manually from the Actions tab
 
 jobs:

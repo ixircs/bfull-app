@@ -41,17 +41,10 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "26c6be46-0ca5-4d7f-af77-65525ab16068"
-      }
+      "router": {}
     },
-    "owner": "nichodarren",
     "runtimeVersion": {
       "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/26c6be46-0ca5-4d7f-af77-65525ab16068"
     }
   }
 }
